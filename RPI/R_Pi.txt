@@ -1,0 +1,9 @@
+Raspberry Pi Master
+
+Example 1 
+  Raspberry Pi side of sending and receiving single ints
+Example 2
+  Raspberry Pi side of sending and receiving arrays
+  
+I2C
+  Contains the general I2C functions for the Raspberry Pi Master
