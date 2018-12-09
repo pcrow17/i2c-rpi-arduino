@@ -1,1 +1,11 @@
+Arduino Slave
 
+Example 1
+  Sends and recieves single values to the RPi when requested
+I2C_1
+  Functions to send and receive single values
+
+Example 2
+  Sends and receives arrays to the RPi when requested
+I2C_2
+  Funcstions to send and recieve arrays
