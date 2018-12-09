@@ -15,8 +15,8 @@ channel = 1
 stuff = 8
 
 while True:
-        writeData(stuff) #writes array stuff to arduino
+        writeData(stuff) #writes int stuff to arduino
         time.sleep(1)
-        directions = readData() #reads 2 byte array from arduino
+        directions = readData() #reads int from arduino
         print(directions)
         time.sleep(3)
